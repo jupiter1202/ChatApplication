@@ -1,11 +1,11 @@
 # ChatApplication
-ChatApplication
+ChatApplication<br/><br/>
 
-Protokoll:
-Server:
-  Connect : <name>
-  Message : <receiver> :  <message>
-  Disconnect
-Client:
-  Message: <transmitter> : <message>
+Protokoll:<br/>
+Server:<br/>
+  Connect : <name><br/>
+  Message : <receiver> :  <message><br/>
+  Disconnect<br/>
+Client:<br/>
+  Message: <transmitter> : <message><br/>
   

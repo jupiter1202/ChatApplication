@@ -8,4 +8,5 @@ Server:<br/>
   Disconnect<br/>
 Client:<br/>
   Message: \<transmitter> : \<message><br/>
+  Connection: \<name>
   

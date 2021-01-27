@@ -8,5 +8,7 @@ Server:<br/>
 Client:<br/>
   Message: \<transmitter> : \<message><br/>
   Connection: \<name><br/>
-  Disconnected: \<name>
+  Disconnected: \<name><br/>
+  Global: \<sender> : \<message>
+  
   
